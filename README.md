@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dddanielliu&show_icons=true&include_all_commits=true&rank_icon=github)]()
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dddanielliu&layout=compact)]()
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
